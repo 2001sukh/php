@@ -1,4 +1,8 @@
 
+- Name- Sukhdeep Singh 
+- Student number: - n0200581
+- Link of Repository: - https://github.com/2001sukh/php.git
+
 ## CHANGED PORTIONS IN LAB = 11-b
 
 # Changes in routes.php 
